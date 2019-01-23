@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\MRY5513\\Desktop\\bahan workshop\\fps\\Assembly-CSharp-Editor-firstpass.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
